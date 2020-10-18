@@ -1,0 +1,23 @@
+.sortable-list-item {
+  font-size: 1.8rem;
+  cursor: grabbing;
+
+  &:not(:last-child) {
+    margin-bottom: 0.6rem;
+  }
+
+  & > button {
+    width: 2.4rem;
+    height: 2.4rem;
+    font-weight: 700;
+    border: 1px solid #000;
+    border-radius: 50%;
+    margin-left: 1.6rem;
+    transition: all .3s ease;
+
+    &:hover {
+      border-color: orange;
+      color: orange;
+    }
+  }
+}

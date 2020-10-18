@@ -1,0 +1,29 @@
+.city-form {
+  &__field {
+    max-width: 30rem;
+    display: flex;
+    flex-flow: column;
+
+    label {
+      font-size: 2rem;
+    }
+
+    input {
+      max-width: 30rem;
+      margin-top: 0.3rem;
+      border: 1px solid #000;
+      border-radius: 0.4rem;
+      padding: 1rem;
+    }
+
+    label + input {
+      margin-top: 1rem;
+    }
+  }
+
+  &__error-message {
+    font-size: 1.2rem;
+    color: red;
+    margin-top: 0.8rem;
+  }
+}
