@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/funbox-map-test-task/precache-manifest.e23756895756ee071ec53b7ca49dcc95.js"
+  "/funbox-map-test-task/precache-manifest.0665392f3f4d3a33591e1625bc579236.js"
 );
 
 self.addEventListener('message', (event) => {

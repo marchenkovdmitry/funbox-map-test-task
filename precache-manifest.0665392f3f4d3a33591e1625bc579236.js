@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6479f078321ff5265bd37079bf1dc1a1",
+    "revision": "f7654e5ab8c1055be993438e440665da",
     "url": "/funbox-map-test-task/index.html"
   },
   {
-    "revision": "6175ff542a4c36d2b024",
-    "url": "/funbox-map-test-task/static/css/main.5e2e3bd0.chunk.css"
+    "revision": "26b55699359728207462",
+    "url": "/funbox-map-test-task/static/css/main.bb65f4da.chunk.css"
   },
   {
     "revision": "4432056523d45e04b8fe",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/funbox-map-test-task/static/js/2.066fc899.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6175ff542a4c36d2b024",
-    "url": "/funbox-map-test-task/static/js/main.85fd8d8b.chunk.js"
+    "revision": "26b55699359728207462",
+    "url": "/funbox-map-test-task/static/js/main.92db5e45.chunk.js"
   },
   {
     "revision": "cde49192b35f3ebfca13",
